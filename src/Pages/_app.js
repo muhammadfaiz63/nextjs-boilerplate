@@ -4,7 +4,6 @@ import dynamic from 'next/dynamic';
 import Head from 'next/head';
 import React, { useEffect, useCallback, useMemo, useState } from 'react';
 import NoSsr from '@material-ui/core/NoSsr';
-
 import Themes from '../Themes/Mui';
 
 // const MainHeader = dynamic(() => import(`@molecules/MainHeader`), { ssr: false });
