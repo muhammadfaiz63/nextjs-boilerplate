@@ -1,0 +1,16 @@
+node_modules/
+.next/
+# .env
+build/
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/FRONTEND.iml
+/src/pages/consultations/[id]/index.js
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/codeStyles/Project.xml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/jsLibraryMappings.xml
+/.idea/prettier.xml

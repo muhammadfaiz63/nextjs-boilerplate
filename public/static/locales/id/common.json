@@ -1,0 +1,9 @@
+{
+    "h1": "A simple example",
+    "change-locale": "Change locale",
+    "to-second-page": "To second page",
+    "error-with-status": "A {{statusCode}} error occurred on server",
+    "error-without-status": "An error occurred on the server",
+    "igaku-balance-title": "Hai {{firstname}}, Igaku balance anda",
+    "Search doctor's name or clinic name": "Cari nama dokter"
+}

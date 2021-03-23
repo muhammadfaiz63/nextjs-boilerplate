@@ -1,0 +1,4 @@
+{
+    "eslint.enable": true,
+    "es6tssort.sortOnSave": false
+}
